@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Hubballi&family=Palette+Mosaic&family=Quicksand:wght@500&display=swap');
+.heading{
+    font-size: 75px;
+    width: 100%;
+    margin: 0px;
+    font-family: "Fredoka";
+}
+
+#status{
+    font-size: 16px;
+}
+
+body{
+    background-color: #7bd389;
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px;
+    margin-top: 200px;
+
+}
+
+
